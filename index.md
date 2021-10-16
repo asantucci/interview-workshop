@@ -59,7 +59,7 @@ involved with STEM.
 
 ## Pre-workshop Checklist
 
-1. Sign up for [Piazza](https://piazza.com/stanford/fall2021/icmeinterviewworkshops21) (class code *icme*). We will attempt to host a Piazza page such that you may learn *from each other* after the workshop is over. (*Note that the best time to ask Andreas questions is _during_ the Q&A sessions held at the end of each workshop session).
+1. Sign up for [Piazza](https://piazza.com/stanford/fall2021/icmeinterviewworkshops) (class code *icme*). We will attempt to host a Piazza page such that you may learn *from each other* after the workshop is over. (*Note that the best time to ask Andreas questions is _during_ the Q&A sessions held at the end of each workshop session).
 2. Familiarize yourself with the schedule and see you Monday, October 18th at 7:15 P.M. PST via Zoom!
 
 ## Schedule
