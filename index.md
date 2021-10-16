@@ -27,10 +27,9 @@ C++.
 
 _Prerequisites:_ We're targeting students who have programming experience and a background in mathematics and sciences; the workshop(s) won't cover *how* to program in Python or C++: if you want to learn more about that, see e.g. 
 my [Introductory Course Notes](https://github.com/CME211/notes#contents).
-We anticipate that you understand the differences between basic data structures
+We anticipate that you understand the basic data structures
 and control-flow (such as List and For-loops in Python), and for the advanced
-workshop we're expecting that you understand the Standard Template Library in
-C++. 
+workshop we're expecting that you understand (proficiently!) the Standard Template Library in C++.
 
 ## About the Instructor
 
