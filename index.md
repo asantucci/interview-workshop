@@ -48,27 +48,30 @@ simultaneously:
   * At Google, Andreas is a Data Scientist: he designs state of the art
 recommendation algorithms for YouTube, and pursues cutting edge techniques for
 statistical inference on sparse data, for example.
-  * At Stanford, Andreas is a Lecturer: he teaches a *sequence* of
+  * At Stanford, Andreas is a Lecturer at [ICME](https://icme.stanford.edu/): he teaches a *sequence* of
 graduate-level software development courses that showcase advanced usage of
 modern C++.
-  * At the Society for Industrial and Applied Mathematics, Andreas serves on the
-Education Committee: he helps students get involved with STEM.
+  * At the 
+  [Society for Industrial and Applied Mathematics](https://www.siam.org/): he   serves on the
+Education Committee, where the objective is to facilitate getting students
+involved with STEM.
 
 # Workshop Materials
 
 ## Pre-workshop Checklist
 
 1. Sign up for [Piazza](piazza.com/stanford/fall2021/icmeinterviewworkshops21) (class code *icme*). We will attempt to host a Piazza page such that you may learn *from each other* after the workshop is over. (*Note that the best time to ask Andreas questions is _during_ the Q&A sessions held at the end of each workshop session).
-2. Familiarize yourself with the schedule and see you Monday, October 18th at 7:15 P.M. PST!
+2. Familiarize yourself with the schedule and see you Monday, October 18th at 7:15 P.M. PST via Zoom!
 
 ## Schedule
 
 #### Session 1 (7:15 - 8:20 P.M. PST)
   - 50 minute "lecture"
-  - 10 minute Q&A (*ends sharply at 10 minutes, due to next workshop commencing)
+  - 10 minute Q&A (ends sharply at 10 minutes, due to next workshop commencing)
+  
 #### Session 2 (8:30 - 9:25 P.M. PST)
   - 45 minute "lecture"
-  - 10 minute Q&A (*doesn't need to end sharply at 9:25 P.M.)
+  - 10 minute Q&A (doesn't need to end sharply at 9:25 P.M.)
 
 ## Additional Resources
 
