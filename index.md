@@ -67,11 +67,11 @@ involved with STEM.
 
 #### Session 1 (7:15 - 8:20 P.M. PST)
   - 50 minute "lecture"
-  - 10 minute Q&A (ends sharply at 10 minutes, due to next workshop commencing)
+  - 15 minute Q&A
   
 #### Session 2 (8:30 - 9:25 P.M. PST)
   - 45 minute "lecture"
-  - 10 minute Q&A (doesn't need to end sharply at 9:25 P.M.)
+  - 10 minute Q&A
 
 ## Additional Resources
 
