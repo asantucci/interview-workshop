@@ -69,13 +69,11 @@ workshop recordings.
 
 ## Schedule
 
-#### Session 1 (7:15 - 8:20 P.M. PST)
-  - 50 minute "lecture"
-  - 15 minute Q&A
+#### Session 1 (5:30 - 6:30 P.M. PST)
+
+#### Pizza Party (6:30 P.M. - 7:30 P.M. PST)
   
 #### Session 2 (8:30 - 9:25 P.M. PST)
-  - 45 minute "lecture"
-  - 10 minute Q&A
 
 ## Additional Resources
 
