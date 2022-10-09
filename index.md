@@ -44,7 +44,7 @@ including Discrete Mathematics and Algorithms as well as Stochastic Processes.
 
 Andreas is currently taking on multiple roles within industry and academia
 simultaneously:
-  * At Google, Andreas is a Data Scientist: he designs state of the art
+  * At Google, Andreas is a Senior Scientist: he designs state of the art
 recommendation algorithms for YouTube, and pursues cutting edge techniques for
 statistical inference on sparse data, for example. He also dances the boundary between a SWE/MLE role, often implementing ideas into production himself using (distributed) C++, training models, running live-traffic experiments, etc.
   * At Stanford, Andreas is a Lecturer at [ICME](https://icme.stanford.edu/): he teaches a *sequence* of
