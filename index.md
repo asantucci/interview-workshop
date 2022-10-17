@@ -73,7 +73,7 @@ workshop recordings.
 
 #### Pizza Party (6:30 P.M. - 7:30 P.M. PST)
   
-#### Session 2 (8:30 - 9:25 P.M. PST)
+#### Session 2 (7:30 - 8:25 P.M. PST)
 
 ## Additional Resources
 
