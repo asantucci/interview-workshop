@@ -84,7 +84,6 @@ Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Question
 Blog](https://www.unofficialgoogledatascience.com/)
 - [CME 211 Notes](https://github.com/CME211/notes#contents)
 - 
-[Take-down!](googlef042bc9e9b79b443.html)
-
+google-site-verification: googlef042bc9e9b79b443.html
 
 
