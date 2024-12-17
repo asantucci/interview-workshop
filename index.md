@@ -34,6 +34,7 @@ workshop we're expecting that you understand (proficiently!) the Standard Templa
 ## About the Instructor
 
 ![Andreas Santucci](/assets/img/profile.jpg){:style="max-width:30%;"}
+[asantucci.github.io/Research.html](asantucci.github.io/Research.html)
 
 Andreas Santucci graduated from Stanford in 2017 with a degree in Computational
 and Mathematical Engineering. During his time at Stanford, Andreas did
